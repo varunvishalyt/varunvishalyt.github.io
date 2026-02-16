@@ -53,7 +53,7 @@ Visit [OpenAI](https://openai.com)
 
 ## 🖼 Image
 
-![Sample Image](https://via.placeholder.com/150)
+![Sample Image](https://picsum.photos/200/300)
 
 ------------------------------------------------------------------------
 
